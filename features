@@ -1,0 +1,5 @@
+check_age=(18)
+if check_age >= 18:
+  print 'False'
+elif check_age < 18:
+    print 'True'
